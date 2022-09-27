@@ -21,7 +21,7 @@ global.APIKeys = {
 //customize settings\\
 global.owner = ['917994827702']
 global.premium = ['917994827702']
-global.ownernomer = 'https://wa.me/+917994827702'
+global.ownernomer = 'wa.me/+917994827702'
 global.ownername = '🍭ᴍᴀᴅ ɢᴜʏ ᴍᴀx'
 global.botname = 'Gojo-Satoru'
 global.footer = '©NexusNwInc.'
